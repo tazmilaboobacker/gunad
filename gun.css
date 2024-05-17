@@ -1,0 +1,48 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.subject{
+    display: flex;
+    flex-direction:row;
+    border: 3px solid black;
+    width: 850px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: white;
+    font-family: "Newsreader", serif;
+
+}
+#poto{
+    border: none solid;
+    border-style: outset;
+    margin-left: 15px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    /* text-shadow: 3px 3px 3px; */
+    background-color: rgb(192, 192, 174);
+}
+#book{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    color: #565959;
+    font-weight: light;
+    font-size: small;
+}
+span{
+    color: #007185;
+    text-decoration: underline;
+}
+.body{
+    margin-top: 20px ;
+    margin-left: 30px;
+    font-size:105%;
+}
+p{
+    font-size: smaller;
+    font-weight:bold ;
+}
